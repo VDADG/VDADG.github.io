@@ -8,19 +8,16 @@ rank: 3
 ## Content
 Domain adaptation and generalization is crucial for a wide range of vision tasks, such as image classification, semantic segmentation, or video recognition, thus laying the basis for everyday applications like smart arrangement of image collections on our smartphones, web-scale image search in our brower or monitor public safety. Today, the predominant approach for domain adaptation and generalization that learn domain-invariant visual representations is adversarial learning. which specifically aims at aligning the visual representations of different domains. Moreover, self-supervised learning is also applied to domain adaptation and generalization, which is promising direction.
 
-In this tutorial we will provide an in-depth coverage of the leading learning paradigms for Deep Metric Learning (DML) and also future directions of how to realistically evaluate their
-(out-of-distribution) generalization. Specifically, the tutorial will cover the following subjects: <i>(i)</i> the landscape of DML objective functions, <i>(ii)</i> advanced and contextual
-DML formulations, <i>(iii)</i> the importance of data sampling in DML, <i>(iv)</i> best practices for fair and realistic evaluation of DML methods and finally, <i>(v)</i> we draw connections
-from DML to related fields in computer vision and pattern recognition, such as contrastive learning, few-shot learning, transfer learning and face recognition.
+In this tutorial we will provide an in-depth coverage of the recent advances in domain adaptation and generalization and also applications and future directions. Specifically, the tutorial will cover the following subjects: <i>(1)</i> background on domain adaptation, <i>(2)</i> recent advances in domain adaptation, <i>(3)</i> domain adaptation vs. domain generalization, <i>(4)</i> recent advances in domain generalization and finally, <i>(5)</i> we provide applications and future perspectives of domain adaptation and generalization.
 
 ---
 ## Info
 
 <ul>
-<li><b>Time</b>: Sunday, 06/19/2022, 1:30pm CDT.</li>
-<li><b>Location</b>: Great Hall A, Ernest N. Morial Convention Center, New Orleans, Louisiana, USA</li>
-<li><b>Online</b>: Find the link in the official virtual platform of CVPR 2022</li>
-<li><b>Primary contact</b>: timo.milbich@iwr.uni-heidelberg.de, j.seidenschwarz@tum.de </li>
+<li><b>Time</b>: Sunday, 06/18/2023, 8:30am GMT-7.</li>
+<li><b>Location</b>: TBD </li>
+<li><b>Online</b>: Find the link in the official virtual platform of CVPR 2023</li>
+<li><b>Primary contact</b>: ronghangzhu@gmail.com </li>
 </ul>
 
 --- 
