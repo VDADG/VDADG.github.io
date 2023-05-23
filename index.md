@@ -4,16 +4,9 @@ title: Recent Advances in   Visual Domain Adaptation and Generalization
 rank: 3
 ---
 
-### Juneteenth in New Orleans
-
-This year, June 19 and 20 marks Juneteenth, a US holiday commemorating the end of slavery in the US, and a holiday of special significance in the US South. We encourage attendees to learn more about Juneteenth and its historical context, and to join the city of New Orleans in celebrating the Juneteenth holiday. You can find out more information about Juneteenth on the [CVPR homepage](https://cvpr2022.thecvf.com/recognizing-juneteenth)
 
 ## Content
-
-Learning about visual similarity is crucial for a wide range of vision tasks, such as image clustering, face detection or image retrieval, thus laying the basis for everyday applications
-like smart arrangement of image collections on our smartphones, web-scale image search in our browser or recommending products while shopping online. Today, the predominant approach for
-learning visual representations that capture similarity is Deep Metric Learning, which specifically aims at retrieving objects and images from novel, unseen classes. Moreover, similarity
-learning is closely related to contrastive learning, which is the leading approach to self-supervised learning, respectively transfer learning.
+Domain adaptation and generalization is crucial for a wide range of vision tasks, such as image classification, semantic segmentation, or video recognition, thus laying the basis for everyday applications like smart arrangement of image collections on our smartphones, web-scale image search in our brower or monitor public safety. Today, the predominant approach for domain adaptation and generalization that learn domain-invariant visual representations is adversarial learning. which specifically aims at aligning the visual representations of different domains. Moreover, self-supervised learning is also applied to domain adaptation and generalization, which is promising direction.
 
 In this tutorial we will provide an in-depth coverage of the leading learning paradigms for Deep Metric Learning (DML) and also future directions of how to realistically evaluate their
 (out-of-distribution) generalization. Specifically, the tutorial will cover the following subjects: <i>(i)</i> the landscape of DML objective functions, <i>(ii)</i> advanced and contextual
