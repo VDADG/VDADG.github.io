@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Recent Advances in Visual Domain Adaptation and Generalization
+title: Recent Advances in   Visual Domain Adaptation and Generalization
 rank: 3
 ---
 
