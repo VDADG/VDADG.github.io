@@ -35,9 +35,9 @@ In this tutorial we will provide an in-depth coverage of the recent advances in 
 	&nbsp;
 
        	<div class="container">
-	<img class="circular_image" src="imgs/Xiang_Yu.jpg"/>
+	<img class="circular_image" src="imgs/Sheng_Li.png"/>
 	<div class="content">
-	<a href="https://sites.google.com/site/xiangyurutgers">Xiang Yu</a> <br> Prime Video, Amazon <br> yuxiang03@gmail.com
+	<a href="http://sheng-li.org/">Sheng Li</a> <br> University of Virginia <br> shengli@virginia.edu
 	</div>
 	</div>
 
@@ -52,10 +52,10 @@ In this tutorial we will provide an in-depth coverage of the recent advances in 
   </div>
 
   <div class="column">
-       	<div class="container">
-	<img class="circular_image" src="imgs/jenny.jpg"/>
+	<div class="container">
+	<img class="circular_image" src="imgs/Xiang_Yu.jpg"/>
 	<div class="content">
-	<a href="https://dvl.in.tum.de/team/seidenschwarz/">Jenny Seidenschwarz</a> <br> Technical University of Munich <br> j.seidenschwarz@tum.de
+	<a href="https://sites.google.com/site/xiangyurutgers">Xiang Yu</a> <br> Prime Video, Amazon <br> yuxiang03@gmail.com
 	</div>
 	</div>
 
