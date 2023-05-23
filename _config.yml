@@ -21,9 +21,9 @@
 title: Your awesome title
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  CVPR 2022 Tutorial
-domain: dvsml2022-tutorial.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://dvsml2022-tutorial.github.io
+  CVPR 2023 Tutorial
+domain: vdadg2023-tutorial.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://vdadg2023-tutorial.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: jekyllrb
 github_username:  jekyll
