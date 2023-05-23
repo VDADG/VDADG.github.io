@@ -26,18 +26,18 @@ In this tutorial we will provide an in-depth coverage of the recent advances in 
 <div class="row">
   <div class="column">
     	<div class="container">
-	<img class="circular_image" src="imgs/timo_crop.jpg"/>
+	<img class="circular_image" src="imgs/ronghangzhu.jpg"/>
 	<div class="content">
-	<a href="https://timomilbich.github.io/">Timo Milbich</a> <br> LMU Munich, Heidelberg University <br> timo.milbich@iwr.uni-heidelberg.de
+	<a href="https://riseai.github.io/author/ronghang-zhu/">Ronghang Zhu</a> <br> University of Georgia <br> ronghangzhu@gmail.com
 	</div>
 	</div>
 
 	&nbsp;
 
        	<div class="container">
-	<img class="circular_image" src="imgs/ismail.jpg"/>
+	<img class="circular_image" src="imgs/Xiang_Yu.jpg"/>
 	<div class="content">
-	<a href="https://dvl.in.tum.de/team/elezi/">Ismail Elezi</a> <br> Technical University of Munich <br> ismail.elezi@tum.de
+	<a href="https://sites.google.com/site/xiangyurutgers">Xiang Yu</a> <br> Prime Video, Amazon <br> yuxiang03@gmail.com
 	</div>
 	</div>
 
