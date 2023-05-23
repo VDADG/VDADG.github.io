@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Deep Visual Similarity and Metric Learning
+title: Recent Advances in Visual Domain Adaptation and Generalization
 rank: 3
 ---
 
