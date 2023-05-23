@@ -40,15 +40,6 @@ In this tutorial we will provide an in-depth coverage of the recent advances in 
 	<a href="http://sheng-li.org/">Sheng Li</a> <br> University of Virginia <br> shengli@virginia.edu
 	</div>
 	</div>
-
-	&nbsp;
-
-       	<div class="container">
-	<img class="circular_image" src="imgs/bjorn_crop2.jpg"/>
-	<div class="content">
-	<a href="https://ommer-lab.com/people/ommer/">Björn Ommer</a> <br> LMU Munich, Heidelberg University <br> ommer@lmu.de
-	</div>
-	</div>
   </div>
 
   <div class="column">
@@ -59,14 +50,6 @@ In this tutorial we will provide an in-depth coverage of the recent advances in 
 	</div>
 	</div>
 
-	&nbsp;
-
-       	<div class="container">
-	<img class="circular_image" src="imgs/laura_crop.jpg"/>
-	<div class="content">
-	<a href="https://dvl.in.tum.de/team/lealtaixe/">Laura Leal-Taixe</a> <br> Technical University of Munich <br> leal.taixe@tum.de
-	</div>
-	</div>
   </div>
 </div>
 
