@@ -15,7 +15,7 @@ In this tutorial we will provide an in-depth coverage of the recent advances in 
 
 <ul>
 <li><b>Time</b>: Sunday, 06/18/2023, 8:30am GMT-7.</li>
-<li><b>Online</b>: <a href="[https://riseai.github.io/author/ronghang-zhu/](https://us06web.zoom.us/s/84332757424?zak=eyJ0eXAiOiJKV1QiLCJzdiI6IjAwMDAwMSIsInptX3NrbSI6InptX28ybSIsImFsZyI6IkhTMjU2In0.eyJhdWQiOiJjbGllbnRzbSIsInVpZCI6IlVxZEpRREM3UTc2OE94NF9NdHRiNWciLCJpc3MiOiJ3ZWIiLCJzayI6IjAiLCJzdHkiOjEwMCwid2NkIjoidXMwNiIsImNsdCI6MCwibW51bSI6Ijg0MzMyNzU3NDI0IiwiZXhwIjoxNjg2MjU4MzQzLCJpYXQiOjE2ODYyNTExNDMsImFpZCI6InV4MlNaYkcwUkFxVU96cGQxYzNwcGciLCJjaWQiOiIifQ.xv8QXqVcoANaNA3JVpTCat8QJOLUPi3ra8fPzXQ5OdA)">Zoom Link</a></li>
+<li><b>Online</b>: <a href="https://us06web.zoom.us/j/83957352508?pwd=V0tMUnFTNE5mOGRWNnU0MWF1Z2Zzdz09">Zoom Link</a></li>
 <li><b>Primary contact</b>: ronghangzhu@gmail.com </li>
 </ul>
 
