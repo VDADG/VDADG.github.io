@@ -13,5 +13,5 @@ rank: 3
 | 9:45 - 10:00 | Coffee break | |
 |10:00 - 10:25 | Domain Adaptation vs. Domain Generalization <br /> (20 min + 5 min QA) (virtual) | Ronghang Zhu |
 | 10:25 - 11:10 | Recent Advances in Domain Generalization <br /> (40 min + 5 min QA) (virtual) | Ronghang Zhu |
-| 11:10 - 11:35  | Applications and Future Perspectives <br /> (30 min + 5 min QA) (virtual) | Xiang Yu |
+| 11:10 - 11:55  | Applications and Future Perspectives <br /> (40 min + 5 min QA) (virtual) | Xiang Yu |
 
